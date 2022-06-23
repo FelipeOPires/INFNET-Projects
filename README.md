@@ -1,6 +1,9 @@
 # MarvelHeroes
-Projetos realizados no curso de Banco de Dados (BI e Big Data)
+Projeto realizado no curso de Banco de Dados (BI e Big Data) referente ao bloco 5, que contém as disciplinas: 
 
+- Desenvolvimento de soluções Big Data com Apache Spark
+- Implantação de soluções Big Data com Hadoop
+- Projeto de Bloco - Infraestrutura para Big Data - Volume
 
 ## Objetivo
 
